@@ -2,6 +2,8 @@
 
 A click and action stream tracker.
 
+![Demo of tel](https://padfever.github.io/tel/showcase.jpg)
+
 ## Usage
 
 There are two parts to get this running: deploying the **server** and adding the **client scripts**.

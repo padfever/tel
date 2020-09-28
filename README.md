@@ -8,7 +8,9 @@ A click and action stream tracker.
 
 There are two parts to get this running: deploying the **server** and adding the **client scripts**.
 
-1. Fork this repository.
+### Fork this repository
+
+You'll want to commit your changes.
 
 ### Deploy Server
 

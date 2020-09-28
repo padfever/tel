@@ -1,5 +1,5 @@
 {
-  "name": "web-clarity-js",
+  "name": "tel-js",
   "version": "0.9.0",
   "description": "Web clarity action and click stream javascript client",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/padfever/web-clarity.git"
+    "url": "git+https://github.com/padfever/tel.git"
   },
   "author": "Abraham Elmahrek <abe@padfever.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/padfever/web-clarity/issues"
+    "url": "https://github.com/padfever/tel/issues"
   },
-  "homepage": "https://github.com/padfever/web-clarity#readme",
+  "homepage": "https://github.com/padfever/tel#readme",
   "devDependencies": {
     "@types/chrome": "0.0.124",
     "@types/node": "^14.11.2",

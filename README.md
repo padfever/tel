@@ -1,4 +1,4 @@
-# web-clarity
+# tel
 
 A click and action stream tracker.
 

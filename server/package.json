@@ -1,5 +1,5 @@
 {
-    "name": "web-clarity-server",
+    "name": "tel-server",
     "version": "0.9.0",
     "dependencies": {
         "@nestjs/common": "^7.4.2",
@@ -38,11 +38,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/padfever/web-clarity.git"
+        "url": "git+https://github.com/padfever/tel.git"
     },
     "author": "Abraham Elmahrek <abe@padfever.com>",
     "bugs": {
-        "url": "https://github.com/padfever/web-clarity/issues"
+        "url": "https://github.com/padfever/tel/issues"
     },
-    "homepage": "https://github.com/padfever/web-clarity#readme"
+    "homepage": "https://github.com/padfever/tel#readme"
 }

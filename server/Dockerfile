@@ -19,8 +19,11 @@ COPY . ./
 
 USER root
 ENV NODE_ENV production
+ENV app__port 80
+EXPOSE 80
 
 # Required for /bin/env ts-node invocations to work
 RUN ln -sf /app/node_modules/.bin/ts-node /usr/local/bin/ts-node
 
 CMD ts-node src/main
+

@@ -2,7 +2,7 @@ import nconf from 'nconf';
 import * as path from 'path';
 
 const DEFAULTS = {
-  app: { scheme: 'http:', hostname: 'localhost', port: 8000 },
+  app: { scheme: 'http:', hostname: 'localhost', port: '8000' },
   telegram: {
     bot_api_key: null,
     channel_id: null,

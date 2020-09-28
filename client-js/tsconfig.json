@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es6",
+      "es7",
+      "es2015",
+      "es2016",
+      "es2017",
+      "es2015.collection",
+      "es2015.iterable",
+      "esnext.asynciterable"
+    ],
+    "target": "ES2019",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "build/compiled",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "stripInternal": true,
+    "pretty": true,
+    "strictNullChecks": false,
+    "declaration": false,
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitReturns": false,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "noEmit": false
+  },
+  "include": ["./src/*", "./src/**/*"],
+  "exclude": ["./node_modules/**/*", "./build/compiled/**/*"]
+}
